@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/set-env.js)",
+      "Bash(API_URL=https://vercel-test-api.com node scripts/set-env.js)"
+    ]
+  }
+}
